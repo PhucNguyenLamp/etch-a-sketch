@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    line-height: 0;
+    background-color: grey;
+}
+#container {
+    height: 1600px;
+    width: 1600px;
+}
+div {
+    /* border-style: solid; */
+    /* border-color: red; */
+    /* border-width: 3px; */
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+button{
+    height: 300px;
+    width: 800px;
+    font-size: 250px;
+    border-width: 50px;
+}
